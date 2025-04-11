@@ -9,6 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  flex-direction: column;
 }
 
 .container {
@@ -78,7 +79,8 @@ li {
   gap: 20px;
   padding: 20px 0;
   font-size: 0.95em;
-  background: transparent;
+  text-align: center;
+  width: 100%;
 }
 
 .nav a {
@@ -96,6 +98,7 @@ li {
   font-size: 0.8em;
   color: #888;
   text-align: center;
+  width: 100%;
 }
 
 .footer a {
