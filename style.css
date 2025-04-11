@@ -90,3 +90,15 @@ li {
 .nav a:hover {
   color: #000;
 }
+
+.footer {
+  margin-top: 3em;
+  font-size: 0.8em;
+  color: #888;
+  text-align: center;
+}
+
+.footer a {
+  color: #888;
+  text-decoration: underline;
+}
